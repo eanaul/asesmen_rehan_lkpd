@@ -25,6 +25,8 @@
 
         $celcius = ($fahrenheit - 32) * 5/9;
 
+        echo "Suhu Fahrenheit hari ini: " . $fahrenheit . " F </br>";
+
         echo "Suhu Celcius: " . $celcius . " C </br>";
 
     if($celcius > 30){
