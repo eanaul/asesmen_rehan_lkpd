@@ -47,6 +47,7 @@
                 }
             }
         }
+        // rehan mengupdate
 
         echo "Waktu setelah ditambah 1 detik: " . $hh . ":" . $mm . ":" . $ss;
     }
